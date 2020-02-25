@@ -1,0 +1,47 @@
+#The Internet a Crash Course:
+
+## Data Center:
+Facility used to house computer systems and communications equipment
+========
+
+Pictures:
+Server Rack
+Fiber Optic Cable
+Fiber Install
+Undersea Cable
+
+===============
+## Ip Adresses
+Picture: IP address (ipv4)
+Text: The numerical address of each device on a network
+Stree address analogy:
+  Decided by central authority
+  Can be changed or have multiple addresses for one building
+  Allows you to determine routes to/from location
+
+
+======================
+## Mac Address
+Picture
+Text: Unique Numeric Identitfier for Every Piece of Network Hardware
+GPS Address Analogy:
+  Cannot be changed
+  Assigned by global authority
+  Distinguishes your device from every other
+  
+  
+========================
+## DNS
+Picture
+Text: Domain Name System (converts facebook.com to 111.222.123.4)
+Why? Because humans remember text better than numbers
+
+
+=========================
+## Pictures of Tubes
+Fixed Broadband Penetration
+Geotagged Tweets
+Wikipedia Articles with Geotags
+Average Download Speeds
+Submarine Cables
+Internet Exchange Points
